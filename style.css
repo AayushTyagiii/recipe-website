@@ -4,7 +4,7 @@ body {
     background-color: #f4f4f4;
 }
 
-/* HEADER */
+
 header {
     background-color: #ff5722;
     color: white;
@@ -12,7 +12,7 @@ header {
     padding: 20px;
 }
 
-/* NAVBAR */
+
 nav {
     background-color: #333;
     text-align: center;
@@ -30,7 +30,7 @@ nav a:hover {
     color: yellow;
 }
 
-/* CATEGORIES */
+
 .categories {
     text-align: center;
     padding: 20px;
@@ -56,7 +56,7 @@ nav a:hover {
     background-color: orange;
 }
 
-/* INTRO */
+
 .intro {
     padding: 20px;
     text-align: center;
@@ -103,7 +103,7 @@ nav a:hover {
     background: red;
 }
 
-/* FOOTER */
+
 footer {
     background: black;
     color: white;
@@ -111,7 +111,7 @@ footer {
     padding: 10px;
 }
 
-/* RESPONSIVE */
+
 @media (max-width: 700px) {
     .container {
         flex-direction: column;
