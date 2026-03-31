@@ -23,7 +23,8 @@ nav a {
     color: white;
     margin: 10px;
     text-decoration: none;
-}
+} 
+
 
 nav a:hover {
     color: yellow;
